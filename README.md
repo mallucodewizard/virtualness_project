@@ -14,12 +14,13 @@ Open a terminal and navigate to the project directory using the `cd` command.
 
 cd path/to/project
 
-Step 3: Install Required Packages
+### Step 3: Install Required Packages
+
 Install all the necessary packages using pip. You can do this with the following command:
 
 pip install -r requirements.txt
 
-Step 4: Run the Server
+### Step 4: Run the Server
 
 Finally, start the Django server using the following command:
 python manage.py runserver
